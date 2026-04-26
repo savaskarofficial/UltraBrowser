@@ -4,7 +4,7 @@
 
 ### Privacy Browser + Security Toolkit for Android
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](#)
+[![Google Play](https://img.shields.io/badge/Google%20Play-Download-34A853?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.ultra.browser)
 [![Android](https://img.shields.io/badge/Android-5.0+-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
 [![Version](https://img.shields.io/badge/Version-1.6.0-blue?style=for-the-badge)](#)
 [![Target SDK](https://img.shields.io/badge/Target%20SDK-36-orange?style=for-the-badge)](#)
@@ -13,7 +13,7 @@
 
 A privacy-first Android browser with a built-in ethical security testing toolkit — designed for security researchers, penetration testers, and privacy-conscious users.
 
-[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80">](#)
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="80">](https://play.google.com/store/apps/details?id=com.ultra.browser)
 
 ---
 
